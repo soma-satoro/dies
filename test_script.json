@@ -70,5 +70,13 @@
         "category": "attributes",
         "stat_type": "attribute",
         "values": [1, 2, 3, 4, 5]
-    }
+    },
+    {
+        "name": "Alertness",
+        "description": "Knack for things going on around you.",
+        "game_line": "Various",
+        "category": "skills",
+        "stat_type": "skill",
+        "values": [1, 2, 3, 4, 5]
+    }   
 ]
