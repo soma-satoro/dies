@@ -72,7 +72,7 @@ Feel free to fork this script and adapt it to your needs. If you encounter any i
 
 ## License
 
-[Specify your license here]
+MIT
 
 ---
 
